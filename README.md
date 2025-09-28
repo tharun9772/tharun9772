@@ -1,16 +1,16 @@
-## Hi there 👋
+# 🚀 Hi, I'm Tharun9772Gaming!
 
-<!--
-**tharun9772/tharun9772** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Great Coder, Bloxcraft Studios Owner, And Loves Coding!**  
 
-Here are some ideas to get you started:
+Hi there! I’m **Tharun9772Gaming**, a passionate developer who loves building interactive web projects and games. From creating cool clicker games to experimenting with backend proxies, I enjoy turning ideas into working code.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills & Interests
+- **Web Development:** HTML, CSS, JavaScript, Node.JS  
+- **Game Development:** Browser-based games, interactive projects  
+- **Backend & APIs:** Node.js, Cloudflare Workers, server-side logic  
+- **Creative Projects:** Prototyping fun, experimental, and challenging applications
+- **My Unblocked Game Site:** Bloxcraft UBG, The Ultimate Game HUb With 30+ Games! https://bloxcraft-ubg.pages.dev
+
+✨ Always Coding Allmost Every Day! ✨
+
+Therefore, I Am A Pretty Chill Guy🌟
