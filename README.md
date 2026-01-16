@@ -9,7 +9,7 @@ Hi there! I’m **Tharun9772Gaming**, a passionate developer who loves building 
 - **Game Development:** Browser-based games, interactive projects  
 - **Backend & APIs:** Node.js, Cloudflare Workers, server-side logic  
 - **Creative Projects:** Prototyping fun, experimental, and challenging applications
-- **My Unblocked Game Site:** Bloxcraft UBG, The Ultimate Game HUb With 30+ Games! https://bloxcraft-ubg.pages.dev
+- **My Unblocked Game Site:** Bloxcraft UBG, The Ultimate Game HUb With 1000+ Games! https://bloxcraft-ubg.pages.dev
 
 ✨ Always Coding Allmost Every Day! ✨
 
